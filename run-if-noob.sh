@@ -2,7 +2,7 @@
 echo "omae baka..."
 sleep 1
 cd step1
-echo "steppu 1 ni utsurimasu ka?" 
+echo "steppu 1 ni utsurimasu ka? Y/n" 
 read response
 case $response in
 	[Yy])
@@ -20,7 +20,7 @@ esac
 sleep 1
 cd ..
 cd step2
-echo "steppu 2 ni utsurimasu ka?" 
+echo "steppu 2 ni utsurimasu ka? Y/n" 
 read response
 case $response in
 	[Yy])
@@ -38,7 +38,7 @@ esac
 sleep 1
 cd ..
 cd step3
-echo "steppu 2 ni utsurimasu ka?" 
+echo "steppu 2 ni utsurimasu ka? Y/n" 
 read response
 case $response in
 	[Yy])
@@ -56,7 +56,7 @@ esac
 sleep 1
 cd ..
 cd step4
-echo "saigo no steppu..." 
+echo "saigo no steppu... Y/n" 
 read response
 case $response in
 	[Yy])
