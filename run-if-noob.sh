@@ -2,7 +2,8 @@
 echo "omae baka..."
 sleep 1
 cd step1
-read -p "steppu 1 ni utsurimasu ka?" response
+echo "steppu 1 ni utsurimasu ka?" 
+read response
 case $response in
 	[Yy])
 		nvim input-java.csv
@@ -23,7 +24,8 @@ esac
 sleep 1
 cd ..
 cd step2
-read -p "steppu 2 ni utsurimasu ka?" response
+echo "steppu 2 ni utsurimasu ka?" 
+read response
 case $response in
 	[Yy])
 		nvim oriz.py
@@ -44,7 +46,8 @@ esac
 sleep 1
 cd ..
 cd step3
-read -p "steppu 2 ni utsurimasu ka?" response
+echo "steppu 2 ni utsurimasu ka?" 
+read response
 case $response in
 	[Yy])
 		nvim combine.sh
@@ -65,7 +68,8 @@ esac
 sleep 1
 cd ..
 cd step4
-read -p "saigo no steppu..." response
+echo "saigo no steppu..." 
+read response
 case $response in
 	[Yy])
 		nvim saigo-no-steppu.sh
