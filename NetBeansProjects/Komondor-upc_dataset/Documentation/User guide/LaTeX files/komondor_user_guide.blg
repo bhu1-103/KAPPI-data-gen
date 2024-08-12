@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: komondor_user_guide.aux
+The style file: unsrt.bst
+Database file #1: bib.bib
+Warning--entry type for "tgax2017draft" isn't style-file defined
+--line 85 of file bib.bib
+Too many commas in name 3 of "Wilhelmi, Francesc and Bellalta, Boris and Cano, Cristina, Jonsson, Anders, Neu, Gergely and Barrachina, Sergio" for entry wilhelmi2017collaborative
+while executing---line 944 of file unsrt.bst
+Too many commas in name 3 of "Wilhelmi, Francesc and Bellalta, Boris and Cano, Cristina, Jonsson, Anders, Neu, Gergely and Barrachina, Sergio" for entry wilhelmi2017collaborative
+while executing---line 944 of file unsrt.bst
+Too many commas in name 3 of "Wilhelmi, Francesc and Bellalta, Boris and Cano, Cristina, Jonsson, Anders, Neu, Gergely and Barrachina, Sergio" for entry wilhelmi2017collaborative
+while executing---line 944 of file unsrt.bst
+You've used 5 entries,
+            1791 wiz_defined-function locations,
+            472 strings with 4519 characters,
+and the built_in function-call counts, 1004 in all, are:
+= -- 83
+> -- 51
+< -- 1
++ -- 19
+- -- 14
+* -- 48
+:= -- 157
+add.period$ -- 14
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 47
+empty$ -- 103
+format.name$ -- 14
+if$ -- 232
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 3
+newline$ -- 26
+num.names$ -- 4
+pop$ -- 26
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 30
+stack$ -- 0
+substring$ -- 32
+swap$ -- 15
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 7
+width$ -- 6
+write$ -- 50
+(There were 3 error messages)
