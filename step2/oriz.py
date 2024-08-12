@@ -5,11 +5,11 @@ import numpy as np
 
 # getting csv files from the folder MyProject
 count=0
-path = r"../step1/output1/"
+path = r"../step1/x-y_output/"
 # read all the files with extension .csv
 f1 = glob.glob(path + "/*.csv")
 
-path3 =r"output2/"
+path3 =r"z_output/"
 #print('File names:' , f1)
 
 # for loop to iterate all csv files

@@ -13,11 +13,7 @@ case $response in
 		echo "honto ni??"
 		;;
 	*)
-		echo "eh...."
-		sleep 0.5;
-		echo "etto...."
-		sleep 0.5;
-		echo "BLEH"
+		echo "eh....";sleep 0.5;echo "etto....";sleep 0.5;echo "BLEH"
 		;;
 esac
 
@@ -34,11 +30,7 @@ case $response in
 		echo "honto ni??"
 		;;
 	*)
-		echo "eh...."
-		sleep 0.5;
-		echo "etto...."
-		sleep 0.5;
-		echo "BLEH"
+		echo "eh....";sleep 0.5;echo "etto....";sleep 0.5;echo "BLEH"
 		;;
 esac
 
@@ -56,11 +48,7 @@ case $response in
 		echo "honto ni??"
 		;;
 	*)
-		echo "eh...."
-		sleep 0.5;
-		echo "etto...."
-		sleep 0.5;
-		echo "BLEH"
+		echo "eh....";sleep 0.5;echo "etto....";sleep 0.5;echo "BLEH"
 		;;
 esac
 
@@ -78,10 +66,6 @@ case $response in
 		echo "honto ni??"
 		;;
 	*)
-		echo "eh...."
-		sleep 0.5;
-		echo "etto...."
-		sleep 0.5;
-		echo "BLEH"
+		echo "eh....";sleep 0.5;echo "etto....";sleep 0.5;echo "BLEH"
 		;;
 esac

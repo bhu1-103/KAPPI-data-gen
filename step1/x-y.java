@@ -426,7 +426,7 @@ public class AI_challenge_sce1 {
             // Generate BSSs
             generate_bss(array_ap_locations);
             // Specify the output path (file's name)
-            output_path = "output1/" + String.format("%03d", i) + ".csv";
+            output_path = "x-y_output/" + String.format("%03d", i) + ".csv";
             System.out.println("output_path: " + output_path);
             // Generate the .csv file
             generate_file(output_path);  

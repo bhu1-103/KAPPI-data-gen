@@ -19,7 +19,7 @@ SEED=900
 #pwd
 #echo 'DETECTED KOMONDOR INPUT FILES: '
 
-cd ../step2/output2/
+cd ../step2/z_output/
 pwd
 
 file_ix=0
@@ -44,7 +44,7 @@ do
 	echo ""
 	echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
 	echo "- EXECUTING ${array[executing_ix]} (${executing_ix}/${file_ix})"
-	./komondor_main ../../../step2/output2/${array[executing_ix]} ../../../step3/sce1a_output.txt sim_${array[executing_ix]} 0 1 1 $SIM_TIME $SEED >> ../../../step3/logs_console.txt 
+	./komondor_main ../../../step2/z_output/${array[executing_ix]} ../../../step3/sce1a_output.txt sim_${array[executing_ix]} 0 1 1 $SIM_TIME $SEED >> ../../../step3/logs_console.txt 
 
 	
 	echo "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
